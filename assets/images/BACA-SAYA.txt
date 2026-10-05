@@ -1,0 +1,2 @@
+Taruh foto di sini. Nama file sesuai js/config.js:
+  foto-utama.jpg, galeri-1.jpg, galeri-2.jpg, galeri-3.jpg, galeri-4.jpg

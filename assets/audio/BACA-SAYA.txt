@@ -1,0 +1,1 @@
+Taruh lagu di sini dengan nama: not-a-lot-just-forever.mp3 (atau ubah nama di js/config.js)
